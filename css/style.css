@@ -1,0 +1,20 @@
+
+  body{
+    background-color: #B6EAFA;
+  }
+  /* hr{
+
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    border-height: 5px;
+
+    height : 0px;
+    width: 5%
+  } */
+  a{
+    color: black;
+  }
+  hr{
+     border-color:#DAFFFB;
+  }
